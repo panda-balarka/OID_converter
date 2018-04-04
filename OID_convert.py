@@ -49,6 +49,5 @@ def notation_OID(oidhex_string):
     print (OID_str)
  
 notation_OID('060D2B0621040BA946964812D10905')
-#format_OID('060D2B06010401A946934815010901')
     
 
